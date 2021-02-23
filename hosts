@@ -42,3 +42,14 @@
 
 #db-[99:101]-node.example.com
 
+[POD1]
+
+[SPINE]
+
+[LEAF]
+R1
+R2
+
+[MGMT]
+S1
+
