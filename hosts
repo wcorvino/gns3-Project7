@@ -43,6 +43,8 @@
 #db-[99:101]-node.example.com
 
 [POD1]
+R1
+R2
 
 [SPINE]
 
